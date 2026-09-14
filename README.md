@@ -63,7 +63,7 @@
 
 ## Стек
 
-- PHP 7.4;
+- PHP 8.2;
 - MYSQL 8;
 - CodeIgniter 4;
 - jQuery 3;
